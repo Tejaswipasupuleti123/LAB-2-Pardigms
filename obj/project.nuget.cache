@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ds/KayLEZHE=",
+  "dgSpecHash": "aXW2sEIiOWg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PASUPULETI .TEJASWI\\Documents\\Lab-2\\MyFSharpApp\\MyFSharpApp.fsproj",
+  "projectFilePath": "C:\\Users\\PASUPULETI .TEJASWI\\Documents\\Test - 2\\MyFSharpApp\\MyFSharpApp.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\PASUPULETI .TEJASWI\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
   ],
