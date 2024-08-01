@@ -1,1 +1,1 @@
-# LAB-2-Pardigms
+# Test-2-Paradigms
